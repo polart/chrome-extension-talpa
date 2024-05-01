@@ -5,6 +5,16 @@
 
 Talpa is a Chrome extension for streamlining string ID identification process. No more endless scrolling or manual searching – with Talpa, just hover over any string and instantly see its corresponding ID.
 
+## Usage
+Talpa works with any website built using React and React Intl
+<div align="center">
+
+  https://github.com/polart/chrome-extension-talpa/assets/27948118/062d9497-44e7-4ca5-a391-e8630db4b514
+
+</div>
+
+
+
 ## Development
 - Make sure [Bun](https://bun.sh/docs/installation) is installed, nothing else is required
 - Run `bun install`
